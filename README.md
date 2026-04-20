@@ -1,2 +1,2 @@
 # Mobilytics-Releases
-to hold releases
+These are  free software distributed with "no guarantee" or "as-is"
