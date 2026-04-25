@@ -1,3 +1,7 @@
+## 1.7.4
+- 26.04.2026 (patch)
+- update variant collection.
+
 ## 1.7.3
 - 26.04.2026 (patch)
 - update corrections.
